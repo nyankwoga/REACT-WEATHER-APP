@@ -11,11 +11,11 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href="https://github.com/nyankwoga"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Valentine Kerubo
           </a>{" "}
           and is{" "}
           <a
